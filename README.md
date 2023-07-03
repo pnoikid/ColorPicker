@@ -1,3 +1,3 @@
-# 🎨 Color Picker
+# ColorPicker
 
-Follow the instructions in the workshop to finish the assignment!
+origin/main
